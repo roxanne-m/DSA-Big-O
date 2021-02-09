@@ -9,6 +9,7 @@ Someone yells - "I do, be happy to bring him over"
 */
 
 // ANSWER 1: The Big O is Constant Time O(1), because the algorithm will take the same amount of time to complete, no matter the size.
+// One yell, one response.
 
 /*
 2) Determine the Big O for the following algorithm: 
